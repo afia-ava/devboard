@@ -1,4 +1,10 @@
-# Journal 1
+## PCB Routing 
+
+
+## PCB Layout
+
+
+## Schematics
 
 usb-c powered rp2040 board with onboard qspi flash, crystal timing, debug header, and full gpio breakout for prototyping.
 
